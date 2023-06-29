@@ -1,4 +1,4 @@
-#!/workspaces/IMDB_scraper/venv/bin/python
+#!/Users/adamhindry/Downloads/IMDB_scraper/venv/bin/python3.9
 # -*- coding: utf-8 -*-
 import re
 import sys
